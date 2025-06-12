@@ -1,4 +1,13 @@
 # CALCULATOR
+
+*COMPANY NAME*:MIRCO IT
+
+*NAME*: SHARADHI B
+
+*DOMAIN*:SOFTWARE DEVELOPER
+
+*DURATION*: 4 WEEKS
+
 The provided code implements a Premium Scientific Calculator using Python's Tkinter library, which is a standard GUI toolkit for creating desktop applications. The calculator is designed to perform both basic arithmetic and advanced scientific calculations, making it suitable for a wide range of users, from students to professionals.
 
 ### Key Components:
