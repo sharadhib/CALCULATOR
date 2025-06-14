@@ -33,3 +33,5 @@ The provided code implements a Premium Scientific Calculator using Python's Tkin
 ### Conclusion:
 
 Overall, this Premium Scientific Calculator is a well-structured and functional application that combines essential mathematical operations with advanced scientific capabilities. Its user-friendly interface, theme options, and error handling make it a versatile tool for anyone needing to perform calculations efficiently. The use of Tkinter ensures that the application is lightweight and easy to run on various platforms, making it accessible to a broad audience.
+
+*OUTPUT*:
